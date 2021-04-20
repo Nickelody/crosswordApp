@@ -41,6 +41,7 @@ import org.akop.ararat.view.inputmethod.CrosswordInputConnection
 import org.akop.ararat.widget.Zoomer
 import java.lang.ref.WeakReference
 import java.util.*
+import java.util.concurrent.atomic.AtomicBoolean
 import kotlin.math.absoluteValue
 
 
@@ -336,17 +337,30 @@ class CrosswordView(context: Context, attrs: AttributeSet?) :
             initializeCrossword()
             selectNextWord()
             renderScale = 0f
+            val isDraw = AtomicBoolean(false)
             viewR.viewTreeObserver.addOnGlobalLayoutListener {
                 val r = Rect()
                 viewR.getWindowVisibleDisplayFrame(r)
                 val heightDiff = viewR.rootView.height - toolbarHeight - r.height()
                 val keyboardMinHeight = 300
                 if (heightDiff > keyboardMinHeight){
+                    isDraw.set(true)
                     heightWithoutKeyboard = r.height() - toolbarHeight - hintView.height
-                    resetConstraintsAndRedraw(true, 200L)
+                    resetConstraintsAndRedraw(true, 600L)
                 }
             }
+
             showKeyboard()
+
+            //force drawing if previous listener for keyboard has not been called during 1 second
+            Handler().postDelayed(
+                    {
+                        if (!isDraw.get()) {
+                            val r = Rect()
+                            getWindowVisibleDisplayFrame(r);
+                            heightWithoutKeyboard = r.height() - toolbarHeight - hintView.height
+                            resetConstraintsAndRedraw(true)
+                        }}, 1000L)
         }
 
     init {
