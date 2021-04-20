@@ -343,7 +343,7 @@ class CrosswordView(context: Context, attrs: AttributeSet?) :
                 val keyboardMinHeight = 300
                 if (heightDiff > keyboardMinHeight){
                     heightWithoutKeyboard = r.height() - toolbarHeight - hintView.height
-                    resetConstraintsAndRedraw(true, 800)
+                    resetConstraintsAndRedraw(true)
                 }
             }
             showKeyboard()
@@ -519,7 +519,7 @@ class CrosswordView(context: Context, attrs: AttributeSet?) :
             // Perform a fast, barebones render so that the screen doesn't
             // look completely empty
 
-            inPlaceRenderer.renderPuzzle(canvas, renderScale, true)
+            //inPlaceRenderer.renderPuzzle(canvas, renderScale, true)
         }
 
         canvas.restore()
@@ -1353,7 +1353,7 @@ class CrosswordView(context: Context, attrs: AttributeSet?) :
         }
     }
 
-    private fun resetConstraintsAndRedraw(forceBitmapRegen: Boolean, delay:Long = 0) {
+    private fun resetConstraintsAndRedraw(forceBitmapRegen: Boolean) {
         val regenBitmaps = puzzleBitmap == null && (renderTask == null || renderTask!!.isCancelled)
 
         // Determine the scale at which the puzzle takes up the entire width
@@ -1381,20 +1381,20 @@ class CrosswordView(context: Context, attrs: AttributeSet?) :
         recomputePuzzleRect()
 
         if (regenBitmaps || forceBitmapRegen) {
-            regenerateBitmaps(delay)
+            regenerateBitmaps()
         }
     }
 
-    internal fun regenerateBitmaps(delay: Long = 0) {
+    internal fun regenerateBitmaps() {
         synchronized(rendererLock) {
             renderTask?.cancel(false)
 
             // A 1px size line is always present, so it's not enough to just
             // check for zero
             if (puzzleRect.width() > 1 && puzzleRect.height() > 1) {
-                Handler().postDelayed({renderTask = RenderTask(this, renderScale)
+                renderTask = RenderTask(this, renderScale)
                 (renderTask
-                    ?: return@postDelayed).executeOnExecutor(AsyncTask.THREAD_POOL_EXECUTOR)}, delay)
+                        ?: return@synchronized).executeOnExecutor(AsyncTask.THREAD_POOL_EXECUTOR)
             }
         }
     }
@@ -2148,7 +2148,6 @@ class CrosswordView(context: Context, attrs: AttributeSet?) :
         private val renderer = Renderer(view)
 
         override fun doInBackground(vararg params: Void?): Bitmap? {
-
             val v = viewRef.get() ?: return null
             if (v.puzzleWidth == 0 || v.puzzleHeight == 0) return null
 
