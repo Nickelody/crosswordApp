@@ -343,7 +343,7 @@ class CrosswordView(context: Context, attrs: AttributeSet?) :
                 val keyboardMinHeight = 300
                 if (heightDiff > keyboardMinHeight){
                     heightWithoutKeyboard = r.height() - toolbarHeight - hintView.height
-                    resetConstraintsAndRedraw(true, 100)
+                    resetConstraintsAndRedraw(true, 300)
                 }
             }
             showKeyboard()
