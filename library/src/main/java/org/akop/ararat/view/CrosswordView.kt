@@ -343,7 +343,7 @@ class CrosswordView(context: Context, attrs: AttributeSet?) :
                 viewR.getWindowVisibleDisplayFrame(r)
                 val heightDiff = viewR.rootView.height - toolbarHeight - r.height()
                 val keyboardMinHeight = 300
-                if (heightDiff > keyboardMinHeight){
+                if (heightDiff > keyboardMinHeight && !isDraw.get()){
                     isDraw.set(true)
                     heightWithoutKeyboard = r.height() - toolbarHeight - hintView.height
                     resetConstraintsAndRedraw(true, 600L)
@@ -356,6 +356,7 @@ class CrosswordView(context: Context, attrs: AttributeSet?) :
             Handler().postDelayed(
                     {
                         if (!isDraw.get()) {
+                            isDraw.set(true)
                             val r = Rect()
                             getWindowVisibleDisplayFrame(r);
                             heightWithoutKeyboard = r.height() - toolbarHeight - hintView.height
