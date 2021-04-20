@@ -343,7 +343,7 @@ class CrosswordView(context: Context, attrs: AttributeSet?) :
                 val keyboardMinHeight = 300
                 if (heightDiff > keyboardMinHeight){
                     heightWithoutKeyboard = r.height() - toolbarHeight - hintView.height
-                    resetConstraintsAndRedraw(true)
+                    resetConstraintsAndRedraw(true, 200L)
                 }
             }
             showKeyboard()
@@ -1353,7 +1353,7 @@ class CrosswordView(context: Context, attrs: AttributeSet?) :
         }
     }
 
-    private fun resetConstraintsAndRedraw(forceBitmapRegen: Boolean) {
+    private fun resetConstraintsAndRedraw(forceBitmapRegen: Boolean, delay:Long = 0L) {
         val regenBitmaps = puzzleBitmap == null && (renderTask == null || renderTask!!.isCancelled)
 
         // Determine the scale at which the puzzle takes up the entire width
@@ -1381,20 +1381,20 @@ class CrosswordView(context: Context, attrs: AttributeSet?) :
         recomputePuzzleRect()
 
         if (regenBitmaps || forceBitmapRegen) {
-            regenerateBitmaps()
+            regenerateBitmaps(delay)
         }
     }
 
-    internal fun regenerateBitmaps() {
+    internal fun regenerateBitmaps(delay: Long = 0) {
         synchronized(rendererLock) {
             renderTask?.cancel(false)
 
             // A 1px size line is always present, so it's not enough to just
             // check for zero
             if (puzzleRect.width() > 1 && puzzleRect.height() > 1) {
-                renderTask = RenderTask(this, renderScale)
-                (renderTask
-                        ?: return@synchronized).executeOnExecutor(AsyncTask.THREAD_POOL_EXECUTOR)
+                Handler().postDelayed({renderTask = RenderTask(this, renderScale)
+                    (renderTask
+                            ?: return@postDelayed).executeOnExecutor(AsyncTask.THREAD_POOL_EXECUTOR)}, delay)
             }
         }
     }
