@@ -24,6 +24,7 @@ import android.annotation.SuppressLint
 import android.content.Context
 import android.graphics.*
 import android.os.*
+import android.provider.Settings.Global.getString
 import android.text.InputType
 import android.util.AttributeSet
 import android.util.Log
@@ -31,7 +32,9 @@ import android.view.*
 import android.view.inputmethod.EditorInfo
 import android.view.inputmethod.InputConnection
 import android.view.inputmethod.InputMethodManager
+import android.widget.LinearLayout
 import android.widget.Scroller
+import android.widget.TextView
 import org.akop.ararat.BuildConfig
 import org.akop.ararat.R
 import org.akop.ararat.core.Crossword
@@ -234,7 +237,8 @@ class CrosswordView(context: Context, attrs: AttributeSet?) :
     var onLongPressListener: OnLongPressListener? = null
     var inputValidator: InputValidator? = null
     var toolbarHeight: Int = 0
-    lateinit var hintView: View
+    var hintView: TextView? = null
+    lateinit var gameLayout: LinearLayout
     lateinit var viewR: View
     var keyboardHeight = 0
 
@@ -328,6 +332,7 @@ class CrosswordView(context: Context, attrs: AttributeSet?) :
         }
 
     private var heightWithoutKeyboard = 0
+    private var heightDiff = 0
 
     var crossword: Crossword? = null
         set(value) {
@@ -341,12 +346,11 @@ class CrosswordView(context: Context, attrs: AttributeSet?) :
             viewR.viewTreeObserver.addOnGlobalLayoutListener {
                     val r = Rect()
                     viewR.getWindowVisibleDisplayFrame(r)
-                    val heightDiff = viewR.rootView.height - toolbarHeight - r.height()- hintView.height
+                    heightDiff = viewR.rootView.height - toolbarHeight - r.height()
                     val keyboardMinHeight = 250
                     if (heightDiff > keyboardMinHeight && !isCrosswordDrawn) {
                         isCrosswordDrawn = true
-                        heightWithoutKeyboard = r.height() - toolbarHeight - hintView.height
-                        resetConstraintsAndRedraw(true)
+                        createHintView(r)
                     }
             }
 
@@ -361,16 +365,39 @@ class CrosswordView(context: Context, attrs: AttributeSet?) :
             // probably the soft keyboard is less then 300 dpi and callback for it has not been
             // called
             Handler(Looper.getMainLooper()).postDelayed({
-               if(!isCrosswordDrawn) {
-                   isCrosswordDrawn = true
-                   val r = Rect()
-                   getWindowVisibleDisplayFrame(r)
-                   heightWithoutKeyboard = r.height() - toolbarHeight - hintView.height
-                   resetConstraintsAndRedraw(true)
-               }
+                if (!isCrosswordDrawn) {
+                    isCrosswordDrawn = true
+                    val r = Rect()
+                    getWindowVisibleDisplayFrame(r)
+                    createHintView(r)
+                }
             }, 1000)
 
         }
+
+    private fun createHintView(r: Rect) {
+        hintView = TextView(context).apply {
+            maxLines = 1
+            minLines = 1
+            setTextColor("#ffffff".toColor())
+            textSize = 18F
+            setTextIsSelectable(true)
+            val params = LinearLayout.LayoutParams(
+                    ViewGroup.LayoutParams.MATCH_PARENT,
+                    ViewGroup.LayoutParams.WRAP_CONTENT
+            )
+            params.setMargins(0, 0, 0, heightDiff)
+            text = context.getString(R.string.tip, selectedWord?.number, selectedWord?.hint)
+            layoutParams = params
+        }
+        hintView!!.post {
+            val wm = context.getSystemService(Context.WINDOW_SERVICE) as WindowManager
+            val display = wm.defaultDisplay
+            heightWithoutKeyboard = display.height - height
+            resetConstraintsAndRedraw(true)
+        }
+        gameLayout.addView(hintView)
+    }
 
     init {
         if (!isInEditMode)
@@ -1384,8 +1411,8 @@ class CrosswordView(context: Context, attrs: AttributeSet?) :
         val fitWidthScaleFactor = contentRect.width() / unscaledWidth
         // Determine the smallest scale factor
         minScaleFactor = minOf(
-            fitWidthScaleFactor,
-            heightWithoutKeyboard  / (puzzleHeight  * cellSize + 1) /*+1px for stroke brush*/)
+                fitWidthScaleFactor,
+                heightWithoutKeyboard / (puzzleHeight * cellSize + 1) /*+1px for stroke brush*/)
 
 
         if (renderScale < .01) {

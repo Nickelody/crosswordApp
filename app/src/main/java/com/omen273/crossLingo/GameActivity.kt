@@ -29,10 +29,9 @@ import android.util.TypedValue
 import android.view.Gravity
 import android.view.Menu
 import android.view.MenuItem
-import android.view.WindowManager
+import android.widget.TextView
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
-import androidx.fragment.app.DialogFragment
 import com.google.gson.Gson
 import kotlinx.android.synthetic.main.activity_game.*
 import kotlinx.android.synthetic.main.toolbar.*
@@ -51,9 +50,9 @@ import kotlin.collections.ArrayList
 class GameActivity : AppCompatActivity(), CrosswordView.OnLongPressListener,
     CrosswordView.OnStateChangeListener, CrosswordView.OnSelectionChangeListener {
 
-    internal lateinit var crosswordView: CrosswordView
+    private lateinit var crosswordView: CrosswordView
     internal var name = ""
-    internal var delete = false
+    private var delete = false
 
     @ExperimentalUnsignedTypes
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -135,7 +134,6 @@ class GameActivity : AppCompatActivity(), CrosswordView.OnLongPressListener,
                 actionBarHeight = TypedValue.complexToDimensionPixelSize(tv.data, resources.displayMetrics)
             }
             cv.toolbarHeight = actionBarHeight
-            cv.hintView = hint
             cv.viewR = window.decorView.rootView
             cv.crossword = crossword
             val fillName = name + STATE_SUFFIX
@@ -145,6 +143,7 @@ class GameActivity : AppCompatActivity(), CrosswordView.OnLongPressListener,
                 setResult(MainActivity.ACTIVITY_GAME_BAD_DATA)
                 finish()
             }
+            cv.gameLayout = game_layout
             cv.onLongPressListener = this
             cv.onStateChangeListener = this
             cv.onSelectionChangeListener = this
@@ -334,10 +333,12 @@ class GameActivity : AppCompatActivity(), CrosswordView.OnLongPressListener,
     override fun onCrosswordUnsolved(view: CrosswordView) {}
 
     override fun onSelectionChanged(view: CrosswordView, word: Crossword.Word?, position: Int) {
-        hint.text = when (word?.direction) {
-            Crossword.Word.DIR_ACROSS -> getString(R.string.tip, word.number, word.hint)
-            Crossword.Word.DIR_DOWN -> getString(R.string.tip, word.number, word.hint)
-            else -> ""
+        view.hintView?.let {
+            it.text = when (word?.direction) {
+                Crossword.Word.DIR_ACROSS -> getString(R.string.tip, word.number, word.hint)
+                Crossword.Word.DIR_DOWN -> getString(R.string.tip, word.number, word.hint)
+                else -> ""
+            }
         }
     }
 
