@@ -341,8 +341,8 @@ class CrosswordView(context: Context, attrs: AttributeSet?) :
             viewR.viewTreeObserver.addOnGlobalLayoutListener {
                     val r = Rect()
                     viewR.getWindowVisibleDisplayFrame(r)
-                    val heightDiff = viewR.rootView.height - toolbarHeight - r.height()
-                    val keyboardMinHeight = 300
+                    val heightDiff = viewR.rootView.height - toolbarHeight - r.height()- hintView.height
+                    val keyboardMinHeight = 250
                     if (heightDiff > keyboardMinHeight && !isCrosswordDrawn) {
                         isCrosswordDrawn = true
                         heightWithoutKeyboard = r.height() - toolbarHeight - hintView.height
@@ -355,6 +355,7 @@ class CrosswordView(context: Context, attrs: AttributeSet?) :
                     if (!imm.isActive(this)) requestFocus()
                 }
             }
+
 
             //force drawing after 1s if crossword drawing has been started it because in this case
             // probably the soft keyboard is less then 300 dpi and callback for it has not been
