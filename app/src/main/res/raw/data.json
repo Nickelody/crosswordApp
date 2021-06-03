@@ -839,6 +839,17 @@
         "topics": ["животные"]
         }}
     ],
+	[
+    {"EN":{
+        "word": "rook",
+        "topics": ["animals"]
+        "level": "proficiency(C2)"
+        }},
+    {"RU": {
+        "word": "грач",
+        "topics": ["животные"]
+        }}
+    ],    
     [
         {"EN":{
             "word": "seal",
