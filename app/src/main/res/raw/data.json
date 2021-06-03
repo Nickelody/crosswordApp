@@ -839,6 +839,16 @@
         "topics": ["животные"]
         }}
     ],
+	[
+    {"EN":{
+        "word": "rook",
+        "topics": ["animals"]
+        }},
+    {"RU": {
+        "word": "грач",
+        "topics": ["животные"]
+        }}
+    ], 
     [
         {"EN":{
             "word": "seal",
