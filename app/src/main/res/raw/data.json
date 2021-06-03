@@ -2230,6 +2230,7 @@
     {"RU": {
         "word": "авокадо",
         "topics": ["фрукты и овощи", "еда"]
+	"level": "beginner(A1)"
         }}
     ],
     [
@@ -8132,6 +8133,7 @@
     {"EN":{
         "word": "student",
         "topics": ["education"]
+        "level": "beginner(A1)"
         }},
     {"RU": {
         "word": "студент",
@@ -8142,6 +8144,7 @@
     {"EN":{
         "word": "teacher",
         "topics": ["education"]
+	"level": "beginner(A1)"
         }},
     {"RU": {
         "word": "учитель",
@@ -8182,6 +8185,7 @@
     {"EN":{
         "word": "learn",
         "topics": ["education"]
+        "level": "beginner(A1)"
         }},
     {"RU": {
         "word": "учиться",
@@ -8192,6 +8196,7 @@
     {"EN":{
         "word": "school",
         "topics": ["education"]
+	"level": "beginner(A1)"
         }},
     {"RU": {
         "word": "школа",
@@ -8202,6 +8207,7 @@
     {"EN":{
         "word": "dormitory",
         "topics": ["education"]
+	"level": "advanced(C1)"
         }},
     {"RU": {
         "word": "общежитие",
@@ -8236,6 +8242,18 @@
     {"RU": {
         "word": "бакалавр",
         "topics": ["образование"]
+	"level": "advanced(C1)"
         }}
-    ]
+    ],
+	[
+    {"EN":{
+        "word": "thesis",
+        "topics": ["science"]
+	"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "диссертация",
+        "topics": ["наука"]
+        }}
+    ],  
 ]
