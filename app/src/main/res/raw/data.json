@@ -9938,5 +9938,159 @@
 				"topics": ["образование"]
 			}
 		}
-	]
+	],
+			[{
+				"EN": {
+					"word": "accessory",
+					"topics": ["dress"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "аксессуар",
+					"topics": ["одежда"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "skintight",
+					"topics": ["dress"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "облегающий",
+					"topics": ["одежда"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "sneaker",
+					"topics": ["dress"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "кроссовка",
+					"topics": ["одежда"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "sole",
+					"topics": ["dress"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "подошва",
+					"topics": ["одежда"]
+				}
+			}
+		],
+[{
+				"EN": {
+					"word": "strapless",
+					"topics": ["dress"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "без бретелек",
+					"topics": ["одежда"]
+				}
+			}
+		],
+[{
+				"EN": {
+					"word": "stylish",
+					"topics": ["dress"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "стильный",
+					"topics": ["одежда"]
+				}
+			}
+		],
+[{
+				"EN": {
+					"word": "veil",
+					"topics": ["dress"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "вуаль",
+					"topics": ["одежда"]
+				}
+			}
+		],
+[{
+				"EN": {
+					"word": "velvet",
+					"topics": ["dress"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "бархат",
+					"topics": ["одежда"]
+				}
+			}
+		],
+[{
+				"EN": {
+					"word": "waistline",
+					"topics": ["dress"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "талия",
+					"topics": ["одежда"]
+				}
+			}
+		],
+[{
+				"EN": {
+					"word": "wetsuit",
+					"topics": ["dress"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "гидрокостюм",
+					"topics": ["одежда"]
+				}
+			}
+		],
+[{
+				"EN": {
+					"word": "wig",
+					"topics": ["dress"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "парик",
+					"topics": ["одежда"]
+				}
+			}
+		]
 ]
