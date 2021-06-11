@@ -9939,4 +9939,1102 @@
 			}
 		}
 	]
-]
+], 
+	[{
+			"EN": {
+				"word": "aerobics",
+				"topics": ["sport"],
+				"level": "beginner (A1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "аэробика",
+				"topics": ["спорт"]
+			}
+		},
+		[{
+				"EN": {
+					"word": "ball",
+					"topics": ["sport"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "мяч",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": " boat",
+					"topics": ["sport"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "лодка",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "boxing",
+					"topics": ["sport"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "бокс",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "chess",
+					"topics": ["sport"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "шахматы",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "exercise",
+					"topics": ["sport"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "упражнение",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "finish",
+					"topics": ["sport"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "заканчивать",
+					"topics": ["спорт"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "football",
+					"topics": ["sport"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "футбол",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "goal",
+					"topics": ["sport"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "ворота",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "gym",
+					"topics": ["sport"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "спортзал",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "match",
+					"topics": ["sport"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "матч",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "player",
+					"topics": ["sport"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "игрок",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "polo",
+					"topics": ["sport"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "поло",
+					"topics": ["спорт"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "ring",
+					"topics": ["sport"],
+					"level": "beginner (A1) "
+				}
+			},
+			{
+				"RU": {
+					"word": "ринг",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "swim",
+					"topics": ["sport"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "плавать",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "team",
+					"topics": ["sport"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "команда",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "tennis",
+					"topics": ["sport"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "теннис",
+					"topics": ["спорт"]
+				}
+			}
+		],	
+		[{
+				"EN": {
+					"word": "workout",
+					"topics": ["sport"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "тренировка",
+					"topics": ["спорт"]
+				}
+			}
+		],
+	[{
+			"EN": {
+				"word": "baseball",
+				"topics": ["sport"],
+				"level": "elementary(A2)"
+			}
+			},
+			{
+				"RU": {
+					"word": "бейсбол",
+					"topics": ["спорт"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "catch",
+					"topics": ["sport"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "ловить",
+					"topics": ["спорт"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "cricket",
+					"topics": ["sport"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "крикет",
+					"topics": ["спорт"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "game",
+					"topics": ["sport"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "игра",
+					"topics": ["спорт"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "kick",
+					"topics": ["sport"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "пинать",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "net",
+					"topics": ["sport"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "сетка",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "point",
+					"topics": ["sport"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "балл",
+					"topics": ["спорт"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "line",
+					"topics": ["sport"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "спуск",
+					"topics": ["спорт"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "score",
+					"topics": ["sport"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "счет",
+					"topics": ["спорт"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "soccer",
+					"topics": ["sport"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "футбол",
+					"topics": ["спорт"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "stick",
+					"topics": ["sport"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "клюшка",
+					"topics": ["спорт"]
+				}
+			}
+		],	
+	[{
+				"EN": {
+					"word": "swimmer",
+					"topics": ["sport"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "пловец",
+					"topics": ["спорт"]
+				}
+			}
+		],	
+	[{
+				"EN": {
+					"word": "throw",
+					"topics": ["sport"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "бросать",
+					"topics": ["спорт"]
+				}
+			}
+		],	
+	[{
+				"EN": {
+					"word": "volleyball",
+					"topics": ["sport"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "волейбол",
+					"topics": ["спорт"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "waterski",
+					"topics": ["sport"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "водные лыжи",
+					"topics": ["спорт"]
+				}
+			}
+		],	
+		[{
+				"EN": {
+					"word": "athlete",
+					"topics": ["sport"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "спортсмен",
+					"topics": ["спорт"]
+				}
+			}
+		],
+	[{
+			"EN": {
+				"word": "archery",
+				"topics": ["sport"],
+				"level": "intermediate(B1)"
+			}
+			},
+			{
+				"RU": {
+					"word": "стрельба",
+					"topics": ["спорт"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "champion",
+					"topics": ["sport"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": ["чемпион"],
+					"topics": ["спорт"]
+				}
+			}
+		],	
+	[{
+				"EN": {
+					"word": "coach",
+					"topics": ["sport"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": ["тренер"],
+					"topics": ["спорт"]
+				}
+			}
+		],	[{
+				"EN": {
+					"word": "crew",
+					"topics": ["sport"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "команда",
+					"topics": ["спорт"]
+				}
+			}
+		],
+	[{
+				"EN": {
+				"word": "diver",
+				"topics": ["sport"],
+				"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "ныряльщик",
+					"topics": ["спорт"]
+				}
+			}
+		],	
+	[{
+				"EN": {
+					"word": "downhill",
+					"topics": ["sport"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "горнолыжный",
+					"topics": ["спорт"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "fencing",
+					"topics": ["sport"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "фехтование",
+					"topics": ["спорт"]
+				}
+			}
+		],			[{
+				"EN": {
+					"word": "handball",
+					"topics": ["sport"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "гандбол",
+					"topics": ["спорт"]
+				}
+			}
+		],	
+	[{
+				"EN": {
+					"word": "mountaineering",
+					"topics": ["sport"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "альпинизм",
+					"topics": ["спорт"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "racing",
+					"topics": ["sport"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "гонки",
+					"topics": ["спорт"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "rider",
+					"topics": ["sport"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "сноубордист",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "skier",
+					"topics": ["sport"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "лыжник",
+					"topics": ["спорт"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "surfer",
+					"topics": ["sport"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "серфер",
+					"topics": ["спорт"]
+				}
+			}
+		],	
+		[{
+				"EN": {
+					"word": "tire",
+					"topics": ["sport"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "покрышка",
+					"topics": ["спорт"]
+				}
+			}
+		],	
+	[{
+				"EN": {
+					"word": "triathlon",
+					"topics": ["sport"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "триатлон",
+					"topics": ["спорт"]
+				}
+			}
+		],	
+		[{
+				"EN": {
+					"word": "barrel",
+					"topics": ["sport"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "штанга",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "bowling",
+					"topics": ["sport"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "боулинг",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "bungee",
+					"topics": ["sport"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "трос",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "canoeing",
+					"topics": ["sport"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "гребля",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "defeat",
+					"topics": ["sport"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "победить",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "hold",
+					"topics": ["sport"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "захват",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "marathon",
+					"topics": ["sport"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "марафон",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "martial",
+					"topics": ["sport"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "боевой",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "obstacle",
+					"topics": ["sport"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "препятствие",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "parachute",
+					"topics": ["sport"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "парашют",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "racetrack",
+					"topics": ["sport"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "дорожка",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "spectator",
+					"topics": ["sport"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "зритель",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "tournament",
+					"topics": ["sport"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "турнир",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "victory",
+					"topics": ["sport"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "победа",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "weightlifter",
+					"topics": ["sport"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+				"word": ["тяжелоатлет"],
+				"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "arena",
+					"topics": ["sport"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "манеж",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": " chairlift",
+					"topics": ["sport"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "подъемник",
+					"topics": ["спорт"]
+				}
+			}
+		],
+ 
+		[{
+				"EN": {
+					"word": "dart",
+					"topics": ["sport"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "ускорение",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": " jogging",
+					"topics": ["sport"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "бег",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "orienteering",
+					"topics": ["sport"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "ориентирование",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "gallop",
+					"topics": ["sport"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "галоп",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "goggle",
+					"topics": ["sport"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "маска",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "pace",
+					"topics": ["sport"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "скорость",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "racecard",
+					"topics": ["sport"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "программа скачек",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "relay",
+					"topics": ["sport"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "эстафетный",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "stopwatch",
+					"topics": ["sport"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "секундомер",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "unbeaten",
+					"topics": ["sport"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "непревзойденный",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "velodrome",
+					"topics": ["sport"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "велодром",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "wrestle",
+					"topics": ["sport"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "борьба",
+					"topics": ["спорт"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "yachting",
+					"topics": ["sport"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "яхтинг",
+					"topics": ["спорт"]
+				}
+			}
+		],
+	
+
+
