@@ -11378,5 +11378,583 @@
 				"topics": ["образование"]
 			}
 		}
-	]
+	],
+		 
+[{
+			"EN": {
+				"word": " bonus",
+				"topics": ["work"],
+				"level": "beginner (A1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "бонус",
+				"topics": ["работа"]
+			}
+		}],
+[{
+			"EN": {
+				"word": "break",
+				"topics": ["work"],
+				"level": "beginner (A1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "перерыв",
+				"topics": ["работа"]
+			}
+		}],
+		[{
+				"EN": {
+					"word": "business",
+					"topics": ["work"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "бизнес",
+					"topics": ["работа"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "career",
+					"topics": ["work"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "карьера",
+					"topics": ["работа"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "desk",
+					"topics": ["work"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "стол",
+					"topics": ["работа"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "easy",
+					"topics": ["work"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "легко",
+					"topics": ["работа"]
+				}
+			}
+		], 		
+[{
+				"EN": {
+					"word": "fire",
+					"topics": ["work"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "уволить",
+					"topics": ["работа"]
+				}
+			}
+		], 
+		[{
+				"EN": {
+					"word": "hard",
+					"topics": ["work"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "трудно",
+					"topics": ["работа"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "hire",
+					"topics": ["work"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "нанимать",
+					"topics": ["работа"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "interview",
+					"topics": ["work"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "собеседование",
+					"topics": ["работа"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "meeting",
+					"topics": ["work"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "встреча",
+					"topics": ["работа"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "office",
+					"topics": ["work"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "офис",
+					"topics": ["работа"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "plan",
+					"topics": ["work"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "план",
+					"topics": ["работа"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "profit",
+					"topics": ["work"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "извлекать выгоду",
+					"topics": ["работа"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "worker",
+					"topics": ["work"],
+					"level": "beginner (A1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "работник",
+					"topics": ["работа"]
+				}
+			}
+		],
+	[{
+			"EN": {
+				"word": "achieve",
+				"topics": ["work"],
+				"level": "elementary(A2)"
+			}
+			},
+			{
+				"RU": {
+					"word": "достигнуть",
+					"topics": ["работа"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "apply",
+					"topics": ["work"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "подать заявку",
+					"topics": ["работа"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "attend",
+					"topics": ["work"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "поступить",
+					"topics": ["работа"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "colleague",
+					"topics": ["work"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "коллега",
+					"topics": ["работа"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "creative",
+					"topics": ["work"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "креативный",
+					"topics": ["работа"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "department",
+					"topics": ["work"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "ведомство",
+					"topics": ["работа"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "employee",
+					"topics": ["work"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "сотрудник",
+					"topics": ["работа"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "employer",
+					"topics": ["work"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "наниматель",
+					"topics": ["работа"]
+				}
+			}
+		],	
+	[{
+				"EN": {
+					"word": "experience",
+					"topics": ["work"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "опыт",
+					"topics": ["работа"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "manage",
+					"topics": ["work"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "управлять",
+					"topics": ["работа"]
+				}
+			}
+		],	
+	[{
+				"EN": {
+					"word": "retire",
+					"topics": ["work"],
+					"level": " elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "на пенсию",
+					"topics": ["работа"]
+				}
+			}
+		],	[{
+				"EN": {
+					"word": "salary",
+					"topics": ["work"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "зарплата",
+					"topics": ["работа"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "target",
+					"topics": ["work"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "цель",
+					"topics": ["работа"]
+				}
+			}
+		],	
+		[{
+				"EN": {
+					"word": "application",
+					"topics": ["work"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "заявка",
+					"topics": ["работа"]
+				}
+			}
+		],
+	[{
+			"EN": {
+				"word": "competitive",
+				"topics": ["work"],
+				"level": "intermediate(B1)"
+			}
+			},
+			{
+				"RU": {
+					"word": "конкурентный",
+					"topics": ["работа"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "condition",
+					"topics": ["work"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": ["состояние"],
+					"topics": ["работа"]
+				}
+			}
+		],	
+	[{
+				"EN": {
+					"word": "file",
+					"topics": ["work"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": ["документ"],
+					"topics": ["работа"]
+				}
+			}
+		],	
+[{
+				"EN": {
+					"word": "obligation",
+					"topics": ["work"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "обязательство",
+					"topics": ["работа"]
+				}
+			}
+		], 
+[{
+				"EN": {
+					"word": "overtime",
+					"topics": ["work"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "сверхурочный",
+					"topics": ["работа"]
+				}
+			}
+		], 
+[{
+				"EN": {
+				"word": "permanent",
+				"topics": ["work"],
+				"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "постоянный",
+					"topics": ["работа"]
+				}
+			}
+		],	
+[{
+				"EN": {
+				"word": "promotion",
+				"topics": ["work"],
+				"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "повышение",
+					"topics": ["работа"]
+				}
+			}
+		],	
+ [{
+				"EN": {
+					"word": "qualified",
+					"topics": ["work"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "дипломированный",
+					"topics": ["работа"]
+				}
+			}
+		],
+[{
+				"EN": {
+					"word": "reject",
+					"topics": ["work"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "отказываться",
+					"topics": ["работа"]
+				}
+			}
+		],
+	[{
+				"EN": {
+				"word": "security",
+				"topics": ["work"],
+				"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "охрана",
+					"topics": ["работа"]
+				}
+			}
+		],	
+[{
+				"EN": {
+				"word": "staff",
+				"topics": ["work"],
+				"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "штат",
+					"topics": ["работа"]
+				}
+			}
+		],	
+	[{
+				"EN": {
+				"word": "stressful",
+				"topics": ["work"],
+				"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "напряжённый",
+					"topics": ["работа"]
+				}
+			}
+		],	
+[{
+				"EN": {
+				"word": "trader",
+				"topics": ["work"],
+				"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "биржевик",
+					"topics": ["работа"]
+				}
+			}
+		]
+
 ]
