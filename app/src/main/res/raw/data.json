@@ -11378,5 +11378,255 @@
 				"topics": ["образование"]
 			}
 		}
-	]
+	],
+		[{
+				"EN": {
+					"word": "acquisition",
+					"topics": ["work"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "присоединение",
+					"topics": ["работа"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "appointment",
+					"topics": ["work"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "назначение",
+					"topics": ["работа"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "assemble",
+					"topics": ["work"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "собирать",
+					"topics": ["работа"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "attorney",
+					"topics": ["work"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "юрисконсульт",
+					"topics": ["работа"]
+				}
+			}
+		], 	[{
+				"EN": {
+					"word": "backer",
+					"topics": ["work"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "инвестор",
+					"topics": ["работа"]
+				}
+			}
+		], 	[{
+				"EN": {
+					"word": "boardroom ",
+					"topics": ["work"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "конференцзал",
+					"topics": ["работа"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "capacity",
+					"topics": ["work"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "объем полномочий",
+					"topics": ["работа"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "cfo",
+					"topics": ["work"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "финдиректор",
+					"topics": ["работа"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "commodity",
+					"topics": ["work"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "изделие",
+					"topics": ["работа"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "consumerism",
+					"topics": ["work"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "теория потребления",
+					"topics": ["работа"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "dealmaker",
+					"topics": ["work"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "делец",
+					"topics": ["работа"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "deputy",
+					"topics": ["work"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "заместитель",
+					"topics": ["работа"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "endorse",
+					"topics": ["work"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "одобрить",
+					"topics": ["работа"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "fulfil",
+					"topics": ["work"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "выполнять",
+					"topics": ["работа"]
+				}
+			}
+		],
+[{
+				"EN": {
+					"word": "merge",
+					"topics": ["work"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "поглощать",
+					"topics": ["работа"]
+				}
+			}
+		],
+[{
+				"EN": {
+					"word": "niche",
+					"topics": ["work"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "сфера",
+					"topics": ["работа"]
+				}
+			}
+		],
+[{
+				"EN": {
+					"word": "publicize",
+					"topics": ["work"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "рекламировать",
+					"topics": ["работа"]
+				}
+			}
+		],
+[{
+				"EN": {
+					"word": "solicitor",
+					"topics": ["work"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "поверенный",
+					"topics": ["работа"]
+				}
+			}
+		]
 ]
