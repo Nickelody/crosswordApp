@@ -11378,5 +11378,301 @@
 				"topics": ["образование"]
 			}
 		}
-	]
+	],
+	 [
+ 	[{
+ 			"EN": {
+ 				"word": "vacancy",
+ 				"topics": ["work"],
+ 				"level": "beginner (A1)"
+ 			}
+ 		},
+ 		{
+ 			"RU": {
+ 				"word": "вакансия",
+ 				"topics": ["работа"]
+ 			}
+ 		}
+ 	],
+		 [{
+			"EN": {
+				"word": "report",
+				"topics": ["work"],
+				"level": "beginner (A1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "отчет",
+				"topics": ["работа"]
+			}
+		}
+		 ],
+		  [{
+			"EN": {
+				"word": "task",
+				"topics": ["work"],
+				"level": "beginner (A1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "задача",
+				"topics": ["работа"]
+			}
+		}
+		  ],
+ 	[{
+ 			"EN": {
+ 				"word": "trader",
+ 				"topics": ["work"],
+ 				"level": "intermediate(B1)"
+ 			}
+ 		},
+ 		{
+ 			"RU": {
+ 				"word": "биржевик",
+ 				"topics": ["работа"]
+ 			}
+ 		}
+ 	],
+ 	[{
+ 			"EN": {
+ 				"word": "account",
+ 				"topics": ["work"],
+ 				"level": "upper-intermediate(B2)"
+ 			}
+ 		},
+ 		{
+ 			"RU": {
+ 				"word": "счет",
+ 				"topics": ["работа"]
+ 			}
+ 		}
+ 	],
+ 	[{
+ 			"EN": {
+ 				"word": "agenda",
+ 				"topics": ["work"],
+ 				"level": "upper-intermediate(B2)"
+ 			}
+ 		},
+ 		{
+ 			"RU": {
+ 				"word": "повестка",
+ 				"topics": ["работа"]
+ 			}
+ 		}
+ 	],
+ 	[{
+ 			"EN": {
+ 				"word": "aid",
+ 				"topics": ["work"],
+ 				"level": "upper-intermediate(B2)"
+ 			}
+ 		},
+ 		{
+ 			"RU": {
+ 				"word": "пособие",
+ 				"topics": ["работа"]
+ 			}
+ 		}
+ 	],
+ 	[{
+ 			"EN": {
+ 				"word": "appeal",
+ 				"topics": ["work"],
+ 				"level": "upper-intermediate(B2)"
+ 			}
+ 		},
+ 		{
+ 			"RU": {
+ 				"word": ["обжаловать"],
+ 				"topics": ["работа"]
+ 			}
+ 		}
+ 	],
+ 	[{
+ 			"EN": {
+ 				"word": "beggar",
+ 				"topics": ["work"],
+ 				"level": "upper-intermediate(B2)"
+ 			}
+ 		},
+ 		{
+ 			"RU": {
+ 				"word": "неимущий",
+ 				"topics": ["работа"]
+ 			}
+ 		}
+ 	],
+ 	[{
+ 			"EN": {
+ 				"word": "brainstorm",
+ 				"topics": ["work"],
+ 				"level": "upper-intermediate(B2)"
+ 			}
+ 		},
+ 		{
+ 			"RU": {
+ 				"word": "мозговой штурм",
+ 				"topics": ["работа"]
+ 			}
+ 		}
+ 	],
+ 	[{
+ 			"EN": {
+ 				"word": "chair",
+ 				"topics": ["work"],
+ 				"level": "upper-intermediate(B2)"
+ 			}
+ 		},
+ 		{
+ 			"RU": {
+ 				"word": "председательствовать",
+ 				"topics": ["работа"]
+ 			}
+ 		}
+ 	],
+ 	[{
+ 			"EN": {
+ 				"word": "contract",
+ 				"topics": ["work"],
+ 				"level": "upper-intermediate(B2)"
+ 			}
+ 		},
+ 		{
+ 			"RU": {
+ 				"word": "договор",
+ 				"topics": ["работа"]
+ 			}
+ 		}
+ 	],
+ 	[{
+ 			"EN": {
+ 				"word": "copier",
+ 				"topics": ["work"],
+ 				"level": "upper-intermediate(B2)"
+ 			}
+ 		},
+ 		{
+ 			"RU": {
+ 				"word": "копировальщик",
+ 				"topics": ["работа"]
+ 			}
+ 		}
+ 	],
+ 	[{
+ 			"EN": {
+ 				"word": "demanding",
+ 				"topics": ["work"],
+ 				"level": "upper-intermediate(B2)"
+ 			}
+ 		},
+ 		{
+ 			"RU": {
+ 				"word": "требовательный",
+ 				"topics": ["работа"]
+ 			}
+ 		}
+ 	],
+ 	[{
+ 			"EN": {
+ 				"word": "discipline",
+ 				"topics": ["work"],
+ 				"level": "upper-intermediate(B2)"
+ 			}
+ 		},
+ 		{
+ 			"RU": {
+ 				"word": "дисциплина",
+ 				"topics": ["работа"]
+ 			}
+ 		}
+ 	],
+ 	[{
+ 			"EN": {
+ 				"word": "dismissed",
+ 				"topics": ["work"],
+ 				"level": "upper-intermediate(B2)"
+ 			}
+ 		},
+ 		{
+ 			"RU": {
+ 				"word": "освобожден",
+ 				"topics": ["работа"]
+ 			}
+ 		}
+ 	],
+ 	[{
+ 			"EN": {
+ 				"word": "innovative",
+ 				"topics": ["work"],
+ 				"level": "upper-intermediate(B2)"
+ 			}
+ 		},
+ 		{
+ 			"RU": {
+ 				"word": "новаторский",
+ 				"topics": ["работа"]
+ 			}
+ 		}
+ 	],
+ 	[{
+ 			"EN": {
+ 				"word": "occupation",
+ 				"topics": ["work"],
+ 				"level": "upper-intermediate(B2)"
+ 			}
+ 		},
+ 		{
+ 			"RU": {
+ 				"word": "занятость",
+ 				"topics": ["работа"]
+ 			}
+ 		}
+ 	],
+ 	[{
+ 			"EN": {
+ 				"word": "pension",
+ 				"topics": ["work"],
+ 				"level": "upper-intermediate(B2)"
+ 			}
+ 		},
+ 		{
+ 			"RU": {
+ 				"word": "пенсия",
+ 				"topics": ["работа"]
+ 			}
+ 		}
+ 	],
+ 	[{
+ 			"EN": {
+ 				"word": "unemployment",
+ 				"topics": ["work"],
+ 				"level": "upper-intermediate(B2)"
+ 			}
+ 		},
+ 		{
+ 			"RU": {
+ 				"word": "безработица",
+ 				"topics": ["работа"]
+ 			}
+ 		}
+ 	],
+ 	[{
+ 			"EN": {
+ 				"word": "workplace",
+ 				"topics": ["work"],
+ 				"level": "upper-intermediate(B2)"
+ 			}
+ 		},
+ 		{
+ 			"RU": {
+ 				"word": "рабочее место",
+ 				"topics": ["работа"]
+ 			}
+ 		}
+ 	]
+ ]
 ]
