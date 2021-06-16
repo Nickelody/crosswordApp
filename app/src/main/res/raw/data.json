@@ -11378,5 +11378,296 @@
 				"topics": ["образование"]
 			}
 		}
-	]
+	],
+	[{
+				"EN": {
+					"word": "airline",
+					"topics": ["travel"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "авиакомпания",
+					"topics": ["путешествия"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "camp",
+					"topics": ["travel"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "устроить привал",
+					"topics": ["путешествия"]
+				}
+			}
+		],	
+	[{
+				"EN": {
+					"word": "catch",
+					"topics": ["travel"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "успеть",
+					"topics": ["путешествия"]
+				}
+			}
+		],		
+		[{
+				"EN": {
+					"word": "change",
+					"topics": ["travel"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "пересадка",
+					"topics": ["путешествия"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "gate",
+					"topics": ["travel"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "выход пассажиров",
+					"topics": ["путешествия"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "guide",
+					"topics": ["travel"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "экскурсовод",
+					"topics": ["путешествия"]
+				}
+			}
+		],	
+	[{
+				"EN": {
+					"word": "hiking",
+					"topics": ["travel"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "пешая прогулка",
+					"topics": ["путешествия"]
+				}
+			}
+		],		[{
+				"EN": {
+					"word": "land",
+					"topics": ["travel"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "приземляться",
+					"topics": ["путешествия"]
+				}
+			}
+		],	
+[{
+				"EN": {
+					"word": "luggage",
+					"topics": ["travel"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "багаж",
+					"topics": ["путешествия"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "pack",
+					"topics": ["travel"],
+					"level": " elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "упаковывать",
+					"topics": ["путешествия"]
+				}
+			}
+		],
+	[{
+			"EN": {
+				"word": "platform",
+				"topics": ["travel"],
+				"level": "elementary(A2)"
+			}
+			},
+			{
+				"RU": {
+					"word": "платформа",
+					"topics": ["путешествия"]
+				}
+			}
+		],	
+	[{
+				"EN": {
+					"word": "railway",
+					"topics": ["travel"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "железнодорожный",
+					"topics": ["путешествия"]
+				}
+			}
+		],
+[{
+				"EN": {
+					"word": "route",
+					"topics": ["travel"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "маршрут",
+					"topics": ["путешествия"]
+				}
+			}
+		],
+[{
+				"EN": {
+					"word": "seat",
+					"topics": ["travel"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "место",
+					"topics": ["путешествия"]
+				}
+			}
+		],
+[{
+				"EN": {
+					"word": "ship",
+					"topics": ["travel"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "корабль",
+					"topics": ["путешествия"]
+				}
+			}
+		],
+  [{
+				"EN": {
+					"word": "sightseeing",
+					"topics": ["travel"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "осмотр достопримечательностей",
+					"topics": ["путешествия"]
+				}
+			}
+		],	
+	[{
+				"EN": {
+					"word": "single",
+					"topics": ["travel"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "одноместный",
+					"topics": ["путешествия"]
+				}
+			}
+		],	
+	[{
+				"EN": {
+					"word": "souvenir",
+					"topics": ["travel"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "сувенир",
+					"topics": ["путешествия"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "subway",
+					"topics": ["travel"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "подземка",
+					"topics": ["путешествия"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "timetable",
+					"topics": ["travel"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "расписание",
+					"topics": ["путешествия"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "vehicle",
+					"topics": ["travel"],
+					"level": "elementary(A2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "автотранспорт",
+					"topics": ["путешествия"]
+				}
+			}
+		]
 ]
