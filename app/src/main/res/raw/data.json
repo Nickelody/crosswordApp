@@ -12691,5 +12691,677 @@
                 "topics": ["одежда и обувь"]
             }
         }
-    ]
+    ],
+	[{
+			"EN": {
+				"word": "accompany",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "провожать",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "ambulance",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "неотложка",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "billboard",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "транспарант",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "biofuel",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": ["биотопливо"],
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "budget",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "бюджет",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "caravan",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "фургон",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "checkout",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "выселяться",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "cruise",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "путешествие",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "excursion",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "экскурсия",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "hillwalking",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "горный туризм",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "holidaymaker",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "отдыхающий",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "harbor",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "гавань",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "honeymoon",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "медовый месяц",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "lounge",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "расслабляться",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "minibar",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "минибар",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "resident",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "житель",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "resort",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "курорт",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "roundabout",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "объездной",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "rucksack",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "вещмешок",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "satnav",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "спутниковая навигация",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "sunscreen",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "солнцезащита",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "visa",
+				"topics": ["travel"],
+				"level": "upper-intermediate(B2)"
+			}
+		},
+		{
+			"RU": {
+				"word": "виза",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "accelerate",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "ускоряться",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "alight ",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "высаживаться",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "avenue",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "проспект",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "camper",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "турист",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "boulevard",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "бульвар",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "breakdown",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "поломка",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "buggy",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "кабриолет",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "bypass",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "обходной",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "cancellation",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "аннулирование",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "chalet",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "шале",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "daypack",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "сумка",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "chauffeur",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "водитель",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "closure",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "закрытие ",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "doorman",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "консьерж",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "courier",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "курьер",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "diesel",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "тепловозный",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "fuel",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "топливо",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "headlamp",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "фонарик",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "homestay",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "с местными",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "hump",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "лежачий полицейский",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "junction",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "развязка",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "itinerary",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "путеводитель",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "maid",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "обслуживание",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "pedestrian",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "пешеходный",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "upgrade",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "повышение класса билета",
+				"topics": ["путешествия"]
+			}
+		}
+	],
+	[{
+			"EN": {
+				"word": "upmarket",
+				"topics": ["travel"],
+				"level": "advanced(C1)"
+			}
+		},
+		{
+			"RU": {
+				"word": "престижный",
+				"topics": ["путешествия"]
+			}
+		}
+	]
 ]
