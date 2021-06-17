@@ -12691,5 +12691,271 @@
                 "topics": ["одежда и обувь"]
             }
         }
-    ]
+        ],
+[{
+				"EN": {
+					"word": "backbone",
+					"topics": ["body"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "хребет",
+					"topics": ["тело"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "breathe",
+					"topics": ["body"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "дышать",
+					"topics": ["тело"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "clap",
+					"topics": ["body"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "хлопать",
+					"topics": ["тело"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "freckle",
+					"topics": ["body"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "веснушка",
+					"topics": ["тело"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "hairstyle",
+					"topics": ["body"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "прическа",
+					"topics": ["тело"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "moustache",
+					"topics": ["body"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "усы",
+					"topics": ["тело"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "muscle",
+					"topics": ["body"],
+					"level": "intermediate(B1)"
+				}
+			},
+			{
+				"RU": {
+					"word": ["мышца"],
+					"topics": ["тело"]
+				}
+			}
+		],	
+	[{
+			"EN": {
+				"word": "nail",
+				"topics": ["body"],
+				"level": "intermediate(B1)"
+			}
+			},
+			{
+				"RU": {
+					"word": "ноготь",
+					"topics": ["тело"]
+				}
+			}
+		],	
+[{
+			"EN": {
+				"word": "nape",
+				"topics": ["body"],
+				"level": "intermediate(B1)"
+			}
+			},
+			{
+				"RU": {
+					"word": "затылок",
+					"topics": ["тело"]
+				}
+			}
+		],	
+[{
+			"EN": {
+				"word": "nod",
+				"topics": ["body"],
+				"level": "intermediate(B1)"
+			}
+			},
+			{
+				"RU": {
+					"word": "кивать",
+					"topics": ["тело"]
+				}
+			}
+		],	
+	[{
+			"EN": {
+				"word": "pelvis",
+				"topics": ["body"],
+				"level": "intermediate(B1)"
+			}
+			},
+			{
+				"RU": {
+					"word": "таз",
+					"topics": ["тело"]
+				}
+			}
+		],	
+	[{
+			"EN": {
+				"word": "physically",
+				"topics": ["body"],
+				"level": "intermediate(B1)"
+			}
+			},
+			{
+				"RU": {
+					"word": "физически",
+					"topics": ["тело"]
+				}
+			}
+		],	
+	[{
+			"EN": {
+				"word": "temple",
+				"topics": ["body"],
+				"level": "intermediate(B1)"
+			}
+			},
+			{
+				"RU": {
+					"word": "висок",
+					"topics": ["тело"]
+				}
+			}
+		], 
+	[{
+			"EN": {
+				"word": "thick",
+				"topics": ["body"],
+				"level": "intermediate(B1)"
+			}
+			},
+			{
+				"RU": {
+					"word": "широкий",
+					"topics": ["тело"]
+				}
+			}
+		],
+	[{
+			"EN": {
+				"word": "throat",
+				"topics": ["body"],
+				"level": "intermediate(B1)"
+			}
+			},
+			{
+				"RU": {
+					"word": "горло",
+					"topics": ["тело"]
+				}
+			}
+		],	
+	[{
+			"EN": {
+				"word": "toe",
+				"topics": ["body"],
+				"level": "intermediate(B1)"
+			}
+			},
+			{
+				"RU": {
+					"word": "палец",
+					"topics": ["тело"]
+				}
+			}
+		],
+	[{
+			"EN": {
+				"word": "throat",
+				"topics": ["body"],
+				"level": "intermediate(B1)"
+			}
+			},
+			{
+				"RU": {
+					"word": "горло",
+					"topics": ["тело"]
+				}
+			}
+		],
+	[{
+			"EN": {
+				"word": "wrinkle",
+				"topics": ["body"],
+				"level": "intermediate(B1)"
+			}
+			},
+			{
+				"RU": {
+					"word": "морщина",
+					"topics": ["тело"]
+				}
+			}
+		],
+	[{
+			"EN": {
+				"word": "wrist",
+				"topics": ["body"],
+				"level": "intermediate(B1)"
+			}
+			},
+			{
+				"RU": {
+					"word": "запястье",
+					"topics": ["тело"]
+				}
+			}
+		]
 ]
