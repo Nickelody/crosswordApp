@@ -6776,7 +6776,8 @@
 	[
     {"EN":{
         "word": "arm",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "beginner (A1)"
         }},
     {"RU": {
         "word": "рука",
@@ -6786,7 +6787,8 @@
 	[
     {"EN":{
         "word": "eye",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "beginner (A1)"
         }},
     {"RU": {
         "word": "глаз",
@@ -6796,7 +6798,8 @@
 	[
     {"EN":{
         "word": "eyebrow",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "upper-intermediate(B2)"
         }},
     {"RU": {
         "word": "бровь",
@@ -6806,7 +6809,8 @@
 	[
     {"EN":{
         "word": "belly",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "advanced(C1)"
         }},
     {"RU": {
         "word": "живот",
@@ -6815,8 +6819,42 @@
     ],
 	[
     {"EN":{
+        "word": "blonde",
+        "topics": ["body"],
+	"level": "beginner (A1)"
+        }},
+    {"RU": {
+        "word": "блондин",
+        "topics": ["тело"]
+        }}
+    ],
+	[
+    {"EN":{
+        "word": "body",
+        "topics": ["body"],
+	"level": "beginner (A1)"
+        }},
+    {"RU": {
+        "word": "тело",
+        "topics": ["тело"]
+        }}
+    ],
+	[
+    {"EN":{
+        "word": "gray",
+        "topics": ["body"],
+	"level": "beginner (A1)"
+        }},
+    {"RU": {
+        "word": "седой",
+        "topics": ["тело"]
+        }}
+    ],
+	[
+    {"EN":{
         "word": "leg",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "beginner (A1)"
         }},
     {"RU": {
         "word": "нога",
@@ -6826,7 +6864,8 @@
 	[
     {"EN":{
         "word": "thumb",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "beginner (A1)"
         }},
     {"RU": {
         "word": "большой палец",
@@ -6836,7 +6875,8 @@
 	[
     {"EN":{
         "word": "elbow",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "upper-intermediate(B2)"
         }},
     {"RU": {
         "word": "локоть",
@@ -6846,7 +6886,8 @@
 	[
     {"EN":{
         "word": "finger",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "elementary(A2)"
         }},
     {"RU": {
         "word": "палец",
@@ -6856,7 +6897,8 @@
 	[
     {"EN":{
         "word": "foot",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "beginner (A1)"
         }},
     {"RU": {
         "word": "нога",
@@ -6866,7 +6908,8 @@
 	[
     {"EN":{
         "word": "ankle",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "elementary(A2)"
         }},
     {"RU": {
         "word": "лодыжка",
@@ -6876,7 +6919,8 @@
 	[
     {"EN":{
         "word": "hair",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "beginner (A1)"
         }},
     {"RU": {
         "word": "волосы",
@@ -6887,6 +6931,7 @@
     {"EN":{
         "word": "neck",
         "topics": ["body"]
+	"level": "elementary(A2)"
         }},
     {"RU": {
         "word": "шея",
@@ -6896,7 +6941,8 @@
 	[
     {"EN":{
         "word": "hand",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "beginner (A1)"
         }},
     {"RU": {
         "word": "рука",
@@ -6906,7 +6952,8 @@
 	[
     {"EN":{
         "word": "wrist",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "upper-intermediate(B2)"
         }},
     {"RU": {
         "word": "запястье",
@@ -6916,7 +6963,8 @@
 	[
     {"EN":{
         "word": "hip",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "upper-intermediate(B2)"
         }},
     {"RU": {
         "word": "бедро",
@@ -6926,7 +6974,8 @@
 	[
     {"EN":{
         "word": "chin",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "upper-intermediate(B2)"
         }},
     {"RU": {
         "word": "подбородок",
@@ -6936,7 +6985,8 @@
 	[
     {"EN":{
         "word": "knee",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "elementary(A2)"
         }},
     {"RU": {
         "word": "колено",
@@ -6946,7 +6996,8 @@
 	[
     {"EN":{
         "word": "head",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "beginner (A1)"
         }},
     {"RU": {
         "word": "голова",
@@ -6956,7 +7007,8 @@
 	[
     {"EN":{
         "word": "lip",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "intermediate(B1)"
         }},
     {"RU": {
         "word": "губа",
@@ -6966,7 +7018,8 @@
 	[
     {"EN":{
         "word": "mouth",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "beginner (A1)"
         }},
     {"RU": {
         "word": "рот",
@@ -6976,7 +7029,8 @@
 	[
     {"EN":{
         "word": "nose",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "beginner (A1)"
         }},
     {"RU": {
         "word": "нос",
@@ -6986,7 +7040,8 @@
 	[
     {"EN":{
         "word": "thigh",
-        "topics": ["body"]
+        "topics": ["body"],
+        "level": "advanced(C1)"
         }},
     {"RU": {
         "word": "бедро",
@@ -6996,7 +7051,8 @@
 	[
     {"EN":{
         "word": "ear",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "beginner (A1)"
         }},
     {"RU": {
         "word": "ухо",
@@ -7006,7 +7062,8 @@
 	[
     {"EN":{
         "word": "back",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "beginner (A1)"
         }},
     {"RU": {
         "word": "спина",
@@ -7015,18 +7072,20 @@
     ],
 	[
     {"EN":{
-        "word": "underarm",
-        "topics": ["body"]
+        "word": "skin",
+        "topics": ["body"],
+	"level": "beginner (A1)"
         }},
     {"RU": {
-        "word": "подмышка",
+        "word": "кожа",
         "topics": ["тело"]
         }}
     ],
 	[
     {"EN":{
         "word": "shoulder",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "elementary(A2)"
         }},
     {"RU": {
         "word": "плечо",
@@ -7035,8 +7094,20 @@
     ],
 	[
     {"EN":{
+        "word": "stomach",
+        "topics": ["body"],
+	"level": "elementary(A2)"
+        }},
+    {"RU": {
+        "word": "желудок",
+        "topics": ["тело"]
+        }}
+    ],
+	[
+    {"EN":{
         "word": "forehead",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "upper-intermediate(B2)"
         }},
     {"RU": {
         "word": "лоб",
@@ -7046,7 +7117,8 @@
 	[
     {"EN":{
         "word": "calf",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "advanced(C1)"
         }},
     {"RU": {
         "word": "икра",
@@ -7056,7 +7128,8 @@
 	[
     {"EN":{
         "word": "cheek",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "upper-intermediate(B2)"
         }},
     {"RU": {
         "word": "щека",
@@ -7066,17 +7139,52 @@
 	[
     {"EN":{
         "word": "tooth",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "beginner (A1)"
         }},
     {"RU": {
         "word": "зуб",
         "topics": ["тело"]
         }}
     ],
+	[{
+	"EN": {
+	"word": "pretty",
+	"topics": ["body"],
+	"level": "beginner (A1)"
+	}},
+	{"RU": {
+	"word": "милый",
+	"topics": ["тело"]
+	}}
+	], 
+	[{
+	"EN": {
+	"word": "short",
+	"topics": ["body"],
+	"level": "beginner (A1)"
+	}},
+	{"RU": {
+	"word": "низкий",
+	"topics": ["тело"]
+	}}
+	], 
+	[{
+	"EN": {
+	"word": "tall",
+	"topics": ["body"],
+	"level": "beginner (A1)"
+	}},
+	{"RU": {
+	"word": "высокий",
+	"topics": ["тело"]
+	}}
+	], 
 	[
     {"EN":{
         "word": "toe",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "beginner (A1)"
         }},
     {"RU": {
         "word": "палец на ноге",
@@ -7086,7 +7194,8 @@
 	[
     {"EN":{
         "word": "tongue",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "intermediate(B1)"
         }},
     {"RU": {
         "word": "язык",
@@ -7096,7 +7205,8 @@
 	[
     {"EN":{
         "word": "chest",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "intermediate(B1)"
         }},
     {"RU": {
         "word": "грудь",
@@ -7106,7 +7216,8 @@
 	[
     {"EN":{
         "word": "lung",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "upper-intermediate(B2)"
         }},
     {"RU": {
         "word": "легкое",
@@ -7116,7 +7227,8 @@
 	[
     {"EN":{
         "word": "stomach",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "elementary(A2)"
         }},
     {"RU": {
         "word": "желудок",
@@ -7126,7 +7238,8 @@
 	[
     {"EN":{
         "word": "heart",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "elementary(A2)"
         }},
     {"RU": {
         "word": "сердце",
@@ -7136,7 +7249,8 @@
 	[
     {"EN":{
         "word": "liver",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "advanced(C1)"
         }},
     {"RU": {
         "word": "печень",
@@ -7146,7 +7260,8 @@
 	[
     {"EN":{
         "word": "brain",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "elementary(A2)"
         }},
     {"RU": {
         "word": "мозг",
@@ -7156,17 +7271,47 @@
 	[
     {"EN":{
         "word": "blood",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "elementary(A2)"
         }},
     {"RU": {
         "word": "кровь",
         "topics": ["тело"]
         }}
     ],
+	[{
+				"EN": {
+					"word": "hormone",
+					"topics": ["body"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "гормон",
+					"topics": ["тело"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "tissue",
+					"topics": ["body"],
+					"level": "advanced(C1)"
+				}
+			},
+			{
+				"RU": {
+					"word": "ткани",
+					"topics": ["тело"]
+				}
+			}
+		],
 	[
     {"EN":{
         "word": "throat",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "intermediate(B1)"
         }},
     {"RU": {
         "word": "горло",
@@ -7176,7 +7321,8 @@
 	[
     {"EN":{
         "word": "kidney",
-        "topics": ["body"]
+        "topics": ["body"],
+	"level": "advanced(C1)"
         }},
     {"RU": {
         "word": "почка",
