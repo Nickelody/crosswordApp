@@ -12692,4 +12692,487 @@
             }
         }
     ]
+	[{
+				"EN": {
+					"word": "aorta",
+					"topics": ["body"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "аорта",
+					"topics": ["тело"]
+				}
+			}
+		],
+[{
+				"EN": {
+					"word": "bandage",
+					"topics": ["body"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "бинт",
+					"topics": ["тело"]
+				}
+			}
+		],
+[{
+				"EN": {
+					"word": "blind",
+					"topics": ["body"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "слепой",
+					"topics": ["тело"]
+				}
+			}
+		],
+ [{
+				"EN": {
+					"word": "cut",
+					"topics": ["body"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "порез",
+					"topics": ["тело"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "cough",
+					"topics": ["body"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "кашель",
+					"topics": ["тело"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "deaf",
+					"topics": ["body"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "глухой",
+					"topics": ["тело"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "healthy",
+					"topics": ["body"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": " здоровый",
+					"topics": ["тело"]
+				}
+			}
+		],
+ [{
+				"EN": {
+					"word": "lanky",
+					"topics": ["body"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "длинный",
+					"topics": ["тело"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "pale",
+					"topics": ["body"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "бледный",
+					"topics": ["тело"]
+				}
+			}
+		],
+[{
+				"EN": {
+					"word": "recover",
+					"topics": ["body"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "выздороветь",
+					"topics": ["тело"]
+				}
+			}
+		], 
+[{
+				"EN": {
+					"word": "slim",
+					"topics": ["body"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "стройный",
+					"topics": ["тело"]
+				}
+			}
+		],
+[{
+				"EN": {
+					"word": "sling",
+					"topics": ["body"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "повязка",
+					"topics": ["тело"]
+				}
+			}
+		],
+		[{
+				"EN": {
+					"word": "spleen",
+					"topics": ["body"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "селезенка",
+					"topics": ["тело"]
+				}
+			}
+		], 		[{
+				"EN": {
+					"word": "tanned",
+					"topics": ["body"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "загорелый",
+					"topics": ["тело"]
+				}
+			}
+		],
+	[{
+				"EN": {
+					"word": "thyroid",
+					"topics": ["body"],
+					"level": "upper-intermediate(B2)"
+				}
+			},
+			{
+				"RU": {
+					"word": "щитовидка",
+					"topics": ["тело"]
+				}
+			}
+		],
+ [
+    {"EN":{
+        "word": "adrenaline",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "адреналин",
+        "topics": ["тело"]
+        }}
+    ],
+[
+    {"EN":{
+        "word": "artery",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "артерия",
+        "topics": ["тело"]
+        }}
+    ],
+[
+    {"EN":{
+"word": "cheekbone",
+"topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "скула",
+        "topics": ["тело"]
+        }}
+    ], 
+[
+    {"EN":{
+        "word": "chromosome",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "хромосома",
+        "topics": ["тело"]
+        }}
+    ], 
+[
+    {"EN":{
+        "word": "circulation",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "циркуляция",
+        "topics": ["тело"]
+        }}
+    ], [
+    {"EN":{
+        "word": "collarbone ",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "ключица",
+        "topics": ["тело"]
+        }}
+    ], 
+[
+    {"EN":{
+        "word": "earlobe",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "мочка",
+        "topics": ["тело"]
+        }}
+    ],
+ [
+    {"EN":{
+        "word": "eyeball",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "глазное яблоко",
+        "topics": ["тело"]
+        }}
+    ],
+[
+    {"EN":{
+        "word": "eyelash",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "ресница",
+        "topics": ["тело"]
+        }}
+    ],
+[
+    {"EN":{
+        "word": "eyelid",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "веко",
+        "topics": ["тело"]
+        }}
+    ],
+[
+    {"EN":{
+        "word": "fingertip",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "кончик пальца",
+        "topics": ["тело"]
+        }}
+    ],
+[
+    {"EN":{
+        "word": "fist",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "кулак",
+        "topics": ["тело"]
+        }}
+    ],
+[
+    {"EN":{
+        "word": "gut",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "кишки",
+        "topics": ["тело"]
+        }}
+    ],
+[
+    {"EN":{
+        "word": "lap",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "колени",
+        "topics": ["тело"]
+        }}
+    ],
+[
+    {"EN":{
+        "word": "lens",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "хрусталик",
+        "topics": ["тело"]
+        }}
+    ],
+[
+    {"EN":{
+        "word": "pulse",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "пульс",
+        "topics": ["тело"]
+        }}
+    ],
+[
+    {"EN":{
+        "word": "rib",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "ребро",
+        "topics": ["тело"]
+        }}
+    ],
+[
+    {"EN":{
+        "word": "roof",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "нёбо",
+        "topics": ["тело"]
+        }}
+    ],
+[
+    {"EN":{
+        "word": "shin",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "голень",
+        "topics": ["тело"]
+        }}
+    ],
+[
+    {"EN":{
+        "word": "sole",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "подошва стопы",
+        "topics": ["тело"]
+        }}
+    ],
+[
+    {"EN":{
+        "word": "spine",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "спинной мозг",
+        "topics": ["тело"]
+        }}
+    ],
+[
+    {"EN":{
+        "word": "shinbone",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "берцовая кость",
+        "topics": ["тело"]
+        }}
+    ], 
+[
+    {"EN":{
+        "word": "tummy",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "брюшина",
+        "topics": ["тело"]
+        }}
+    ],
+[
+    {"EN":{
+        "word": "vein",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "вена",
+        "topics": ["тело"]
+        }}
+    ],
+[
+    {"EN":{
+        "word": "vessel",
+        "topics": ["body"],
+"level": "advanced(C1)"
+        }},
+    {"RU": {
+        "word": "сосуд",
+        "topics": ["тело"]
+        }}
+    ],
 ]
